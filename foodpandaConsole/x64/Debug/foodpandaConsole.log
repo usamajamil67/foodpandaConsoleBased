@@ -1,0 +1,23 @@
+﻿  foodpandaConsole.cpp
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(336,3): warning C4551: function call missing argument list
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(350,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(417,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(425,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(432,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(439,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(491,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(498,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(505,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(553,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(560,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(567,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(616,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(623,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(630,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(671,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(678,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(685,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(361,7): warning C4101: 'name': unreferenced local variable
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(51): warning C4715: 'showMenu': not all control paths return a value
+C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\foodpandaConsole\foodpandaConsole.cpp(714): warning C4715: 'displaymainMenu': not all control paths return a value
+  foodpandaConsole.vcxproj -> C:\Users\usama\OneDrive\Desktop\foodpanda\foodpandaConsole\x64\Debug\foodpandaConsole.exe
